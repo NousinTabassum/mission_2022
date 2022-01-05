@@ -32,7 +32,7 @@ a{
     background-color:rgb(236, 74, 45);
 }
 img{
-   width: 80%;
+   width: 90%;
 
 }
 .my_mission h2{
@@ -58,4 +58,16 @@ img{
 }
 .goals{
     background-color: rgb(233, 217, 226);
+}
+    
+.img_box{
+    
+    width: 40%;
+    
+ }
+    
+.text_box{
+    
+    width: 60%;
+    
 }
